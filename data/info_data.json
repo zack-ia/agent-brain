@@ -1,6 +1,8 @@
 {
     "nome": "Coliseu Advogados",
     "endereco": "Av. Brasil nº 510, Centro, Florianópolis",
+    "telefone": "48 3018-0012",
+    "email": "advogados@coliseu.com.br",
     "funcionarios": [
         "Mateus - Secretário",
         "Maria Eunice - Secretária",

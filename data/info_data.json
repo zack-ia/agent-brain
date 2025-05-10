@@ -1,0 +1,35 @@
+{
+    "nome": "Coliseu Advogados",
+    "endereco": "Av. Brasil nº 510, Centro, Florianópolis",
+    "funcionarios": [
+        "Mateus - Secretário",
+        "Maria Eunice - Secretária",
+        "Carla Lemos - Atendente",
+        "Dr. Lucas - Advogado",
+        "Dra. Ana Liz - Advogada",
+        "Dr. Sergio Manoel - Advogado",
+        "Dra. Joana Marcela - Advogada"
+    ],
+    "nossos_valores": [
+        "Justiça",
+        "Integridade",
+        "Confidencialidade",
+        "Excelência",
+        "Empatia",
+        "Ética",
+        "Compromisso",
+        "Transparência"
+    ],
+    "historia": [
+        "Com décadas de tradição e excelência, o escritório Coliseu Advogados é referência ",
+        "em atendimento cordial e na resolução de causas complexas no Direito Civil, ",
+        "Empresarial e Tributário."
+    ],
+    "especialidades": [
+        "Direito Civil",
+        "Direito Empresarial",
+        "Direito Tributário",
+        "Direito Trabalhista",
+        "Direito Ambiental"
+    ]
+}

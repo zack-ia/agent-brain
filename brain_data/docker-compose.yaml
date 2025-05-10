@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  agent_brain:
+        image: postgres:17.2
+        container_name: agent_brain
+        environment:
+            POSTGRES_USER: ${USER_PGSQL}
+            POSTGRES_PASSWORD: ${PASS_PGSQL}
+            POSTGRES_DB: ${NAME_PGSQL}
+        ports:
+            - '127.0.0.1:5432:5432'
+        volumes:
+            - agent_brain:/var/lib/postgresql/data/
+
+volumes:
+  agent_brain:

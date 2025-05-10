@@ -1,0 +1,5 @@
+brain_data/.env
+.env
+__pycache__
+venv
+backup
